@@ -1,0 +1,127 @@
+.container {
+  background-color: #082c54;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  height: 98vh; /* Full viewport height */
+  width: 98vw; /* Full viewport width */
+  position: relative;
+  padding: 10px; /* Optional padding */
+}
+
+.top-left-logo {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  color: white;
+}
+
+.top-right {
+  display: flex;
+  position: absolute;
+  align-items: center;
+  top: 20px;
+  right: 20px;
+  color: white;
+}
+
+.top-right img {
+  margin-left: 20px;
+}
+
+.middle {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  color: white;
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  color: white;
+}
+
+.visitor-container {
+  text-align: center;
+  padding: 40px;
+  margin: 15px;
+  background-color: white;
+  height: 130px;
+  width: 130px;
+}
+
+.visitor-container div,
+.visitor-container img {
+  display: block;
+  margin: 0 auto;
+  color: #082c54;
+  font-weight: bold;
+}
+
+.container-reg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  color: white;
+  background-color: #082c54;
+  height: 100vh; /* Full viewport height */
+  width: 100vw;
+  
+}
+
+
+.top-row-reg {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.top-row-reg img {
+  width: 100px; /* Adjust as needed */
+  height: auto;
+}
+
+.form-container-reg {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 20px;
+
+}
+
+.form-container-reg div {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0;
+  color: white;
+}
+
+.form-container-reg label {
+  margin-bottom: 5px;
+
+}
+
+.form-container-reg input {
+  padding: 5px;
+  width: 200px; /* Adjust as needed */
+  margin: 5px;
+}
+
+.form-container-reg button {
+  margin-top: 20px;
+  padding: 10px 20px;
+}

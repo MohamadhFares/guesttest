@@ -1,0 +1,22 @@
+[
+    {
+      "id": "1",
+      "name": "Wynn Resort",
+      "address": "Ras Al Khaima, Marjan Island"
+    },
+    {
+      "id": "2",
+      "name": "Marina Plaza H/O",
+      "address": "Dubai, Marina Plaza"
+    },
+    {
+      "id": "3",
+      "name": "One Zabeel",
+      "address": "One Zabeel"
+    },
+    {
+      "id": "4",
+      "name": "Airport",
+      "address": "Airport, Dubai"
+    }
+  ]

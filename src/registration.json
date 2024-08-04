@@ -1,0 +1,14 @@
+[
+  {
+    "visitorId": 1,
+    "phoneNo": "0561254161",
+    "company": "Test",
+    "email": "jdoe2@test.com",
+    "alecUserHost": "Bilal Asmar",
+    "visitReason": "meeting",
+    "noOfGuests": 2,
+    "guestName": ["Guest 1", "Guest 2"],
+    "locationId": 1,
+    "checkInDate": "29/07/2024T16:57:16"
+  }
+]

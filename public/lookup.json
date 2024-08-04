@@ -1,0 +1,22 @@
+{
+	"locations": [
+		{
+			"id": 1,
+			"name": "Marina Plaza 36 floor"
+		},
+		{
+			"id": 2,
+			"name": "Marina Plaza 26 floor"
+		}
+	],
+	"alecUsers": [
+		{
+			"name": "Bilal Asmar",
+			"email": "basmar@alec"
+		},
+		{
+			"name": "John Doe",
+			"email": "jdoe@alec"
+		}
+	]
+}
